@@ -1,6 +1,4 @@
 # python-snake-game
-Playing around with pygame
-
 Simple Snake game created with pygame -> Using codebasics tutorial on Youtube. 
 
 Rules: 
