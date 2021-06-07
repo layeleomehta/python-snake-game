@@ -1,4 +1,3 @@
-**Snake Game**
 Simple Snake game created with pygame -> Using codebasics tutorial on Youtube. 
 
 Rules: 
